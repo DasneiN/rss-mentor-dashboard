@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/epam/rss-mentor-dashboard/precache-manifest.dac22d255eea73c24f91018716bafb7a.js"
+  "/rss-mentor-dashboard/precache-manifest.c364c5a13579ca92c6937c6b2fc1b2cc.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/epam/rss-mentor-dashboard/index.html", {
+workbox.routing.registerNavigationRoute("/rss-mentor-dashboard/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
