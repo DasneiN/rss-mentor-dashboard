@@ -1,0 +1,6510 @@
+{
+  "tasks": [
+    {
+      "name": "Code Jam \"CV\"",
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-cv.md",
+      "status": "Checked"
+    },
+    {
+      "name": "Code Jam \"CoreJS\" ",
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-corejs.md",
+      "status": "Checked"
+    },
+    {
+      "name": "Code Jam \"DOM, DOM Events\" ",
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-notification.md",
+      "status": "Checked"
+    },
+    {
+      "name": "Markup #1",
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/markup-2018q3.md",
+      "status": "Checking"
+    },
+    {
+      "name": "RS Activist - ",
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/rs-school-activist.md",
+      "status": "In Progress"
+    },
+    {
+      "name": "YouTube",
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/youtube.md",
+      "status": "Checking"
+    },
+    {
+      "name": "CodeJam \"Scoreboard\"",
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/codejam-scoreboard.md",
+      "status": "Checking"
+    },
+    {
+      "name": "Game",
+      "link": "https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/game.md",
+      "status": "In Progress"
+    },
+    {
+      "name": "Course work",
+      "link": "",
+      "status": "ToDo"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "Sergey",
+      "surname": "Maksimuk",
+      "git": "maximuk",
+      "students": [
+        {
+          "student": "andrei-oksentyk",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "wertybsd",
+          "tasks": []
+        },
+        {
+          "student": "halaveika",
+          "tasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "liodama",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation",
+            "RS Activist"
+          ]
+        },
+        {
+          "student": "alexey-1991",
+          "tasks": []
+        },
+        {
+          "student": "fyr-fyrrr",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "redgektor",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "alexdejko",
+          "tasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "alenashkr",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "uniapi",
+          "tasks": []
+        },
+        {
+          "student": "remziq",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "temons",
+          "tasks": [
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "sozonikoleg",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Zayats",
+      "git": "alex-zayats",
+      "students": [
+        {
+          "student": "uniorunr",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "alexeydavydov",
+          "tasks": []
+        },
+        {
+          "student": "melllivoracapensis",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "soulshaker",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Akiaksandr",
+      "surname": "Zahorski",
+      "git": "aliaksandrzahorski",
+      "students": [
+        {
+          "student": "grenbork",
+          "tasks": []
+        },
+        {
+          "student": "bananovblu",
+          "tasks": []
+        },
+        {
+          "student": "bmvmarc",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "taukitianin",
+          "tasks": []
+        },
+        {
+          "student": "deepenguin",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Siarhei",
+      "surname": "Prystauka",
+      "git": "pristavka",
+      "students": [
+        {
+          "student": "jamadamur",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "tsvetlanak",
+          "tasks": []
+        },
+        {
+          "student": "alehdzmitrenka",
+          "tasks": []
+        },
+        {
+          "student": "dzhudzhi",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "nataliasirotko",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dzianis",
+      "surname": "Pryshchep",
+      "git": "dpryshchep",
+      "students": [
+        {
+          "student": "kira2023",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "vvsvintsitsky",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "molestador",
+          "tasks": []
+        },
+        {
+          "student": "kiryllapouski",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Klimau",
+      "git": "quantum-noise",
+      "students": [
+        {
+          "student": "0riac",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "terstuyahmaksim",
+          "tasks": []
+        },
+        {
+          "student": "803142",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "nickitasolovei",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "saint-artiom",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Artsiom",
+      "surname": "Haurylin",
+      "git": "ahaurylin",
+      "students": [
+        {
+          "student": "olgaluk",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "groamed",
+          "tasks": []
+        },
+        {
+          "student": "grapeperson",
+          "tasks": []
+        },
+        {
+          "student": "rbarakhvostov",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Elena",
+      "surname": "Grebenchuk",
+      "git": "elgrebenchuk",
+      "students": [
+        {
+          "student": "andreiyasinski",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "duza",
+          "tasks": []
+        },
+        {
+          "student": "anton23kirienko",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "gandigap",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Andrei",
+      "surname": "Furs",
+      "git": "yganda",
+      "students": [
+        {
+          "student": "ishelest",
+          "tasks": []
+        },
+        {
+          "student": "yakgjen",
+          "tasks": []
+        },
+        {
+          "student": "inanutshell86",
+          "tasks": []
+        },
+        {
+          "student": "sffirm",
+          "tasks": []
+        },
+        {
+          "student": "zetrox-x",
+          "tasks": []
+        },
+        {
+          "student": "juliasnoww",
+          "tasks": []
+        },
+        {
+          "student": "loori-r",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Dzianis",
+      "surname": "Bunchanka",
+      "git": "denisbun",
+      "students": [
+        {
+          "student": "kvinto1986",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "maksimaliakhnovich",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "superorange",
+          "tasks": []
+        },
+        {
+          "student": "yauheni23",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rem",
+      "surname": "Apasov",
+      "git": "remapasov",
+      "students": [
+        {
+          "student": "frol8612",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "snowwe",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "dongor7",
+          "tasks": []
+        },
+        {
+          "student": "zettrix",
+          "tasks": []
+        },
+        {
+          "student": "innazl",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Tatsiana",
+      "surname": "Khinevich",
+      "git": "tatsianakhinevich-epam",
+      "students": [
+        {
+          "student": "makouskiyan",
+          "tasks": []
+        },
+        {
+          "student": "shest28",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Andrei",
+      "surname": "Zhuk",
+      "git": "andrei-zhuk",
+      "students": [
+        {
+          "student": "torchik-slava",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "antihero",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "RS Activist",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "karpiyeniamv",
+          "tasks": []
+        },
+        {
+          "student": "kirillzavorotni",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "makar1227",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "mudreuski",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "artkon",
+          "tasks": [
+            "Code Jam \"CV\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mikita",
+      "surname": "Zhuikou",
+      "git": "nikitzu",
+      "students": [
+        {
+          "student": "felalag",
+          "tasks": []
+        },
+        {
+          "student": "xixex",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "YouTube",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "bumble-bee83",
+          "tasks": []
+        },
+        {
+          "student": "mikhama",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "YouTube",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist",
+            "RS Activist",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "angryivan",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "alexandr-savkov",
+          "tasks": []
+        },
+        {
+          "student": "dimalinnik",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Aliaksei",
+      "surname": "Zayats",
+      "git": "alex-mnsk",
+      "students": [
+        {
+          "student": "kozyritskiy",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "artyom123",
+          "tasks": []
+        },
+        {
+          "student": "evamaster",
+          "tasks": []
+        },
+        {
+          "student": "elenakhamitsevich",
+          "tasks": []
+        },
+        {
+          "student": "nastyalo",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "lveliarl",
+          "tasks": []
+        },
+        {
+          "student": "spinagrblzzz",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Pavel",
+      "surname": "Zaletski",
+      "git": "pavelzaletski",
+      "students": [
+        {
+          "student": "andddrews",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "bref987",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "sergey496",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "anna-sh",
+          "tasks": []
+        },
+        {
+          "student": "ilyaryabchinski",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Yana",
+      "surname": "Zaitsava",
+      "git": "yana95",
+      "students": [
+        {
+          "student": "mikhailmaniuk",
+          "tasks": []
+        },
+        {
+          "student": "shakhnovapolina",
+          "tasks": []
+        },
+        {
+          "student": "yana-bashtyk",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "olganaranovich",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pavel",
+      "surname": "Yukhnevich",
+      "git": "tibmt",
+      "students": [
+        {
+          "student": "kasiama",
+          "tasks": []
+        },
+        {
+          "student": "magiccurlyhair",
+          "tasks": []
+        },
+        {
+          "student": "iryna-markovich",
+          "tasks": []
+        },
+        {
+          "student": "ivankirsd",
+          "tasks": []
+        },
+        {
+          "student": "argaitt",
+          "tasks": []
+        },
+        {
+          "student": "danteboom",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "passhub",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Anton",
+      "surname": "Yatskevich",
+      "git": "a-yatskevich",
+      "students": [
+        {
+          "student": "mrdreaml",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\"",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "tsypolina",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "evgeniy121",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "jadgptw",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Viktoriya",
+      "surname": "Vorozhun",
+      "git": "viktoriyavorozhun",
+      "students": [
+        {
+          "student": "toxandreev",
+          "tasks": []
+        },
+        {
+          "student": "evgeniyaverbiczkaya",
+          "tasks": []
+        },
+        {
+          "student": "martikoscoder",
+          "tasks": []
+        },
+        {
+          "student": "mayinmarch",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "christina-ilyushonok",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nikolai",
+      "surname": "Verbitskii",
+      "git": "nikolaiverbitskii",
+      "students": [
+        {
+          "student": "shanhinpavel",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "igor82bv",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "klimenkomaksim",
+          "tasks": []
+        },
+        {
+          "student": "uladzimir-yeudakimovich",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Igor",
+      "surname": "Tsialiuk",
+      "git": "sijlver",
+      "students": [
+        {
+          "student": "metre-ray",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "napro23",
+          "tasks": []
+        },
+        {
+          "student": "artur-alexandrov",
+          "tasks": []
+        },
+        {
+          "student": "overkektus",
+          "tasks": []
+        },
+        {
+          "student": "zhekix",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "MIKITA",
+      "surname": "TRUKHANAVETS",
+      "git": "ntrukhanovets",
+      "students": [
+        {
+          "student": "vanyatsar",
+          "tasks": []
+        },
+        {
+          "student": "lordshtein",
+          "tasks": []
+        },
+        {
+          "student": "ekoniuh",
+          "tasks": []
+        },
+        {
+          "student": "evpodrezenko",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "cruecer",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "annchapon",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kiryl",
+      "surname": "Tofan",
+      "git": "kvtofan",
+      "students": [
+        {
+          "student": "thesheepman",
+          "tasks": []
+        },
+        {
+          "student": "brokorenko",
+          "tasks": [
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "vovakor1",
+          "tasks": []
+        },
+        {
+          "student": "hentmire",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "rubahaguy",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "egorbudnik",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Katsiaryna",
+      "surname": "Tatarynovich",
+      "git": "etatarinovich18",
+      "students": [
+        {
+          "student": "kaleniksasha",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "ue4prog",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "sk1ngr0s",
+          "tasks": []
+        },
+        {
+          "student": "alexshumansky",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "margoshulpina",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Uladzislau",
+      "surname": "Tarasenka",
+      "git": "einfachvlad",
+      "students": [
+        {
+          "student": "aleksei-bulgak-study",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist",
+            "Presentation",
+            "YouTube",
+            "RS Activist",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "margharita",
+          "tasks": []
+        },
+        {
+          "student": "lazovskyigor",
+          "tasks": []
+        },
+        {
+          "student": "dyatelvudu",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "Code Jam \"Scoreboard\"",
+            "YouTube"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Tachko",
+      "git": "aliaksandrt",
+      "students": [
+        {
+          "student": "leshich",
+          "tasks": []
+        },
+        {
+          "student": "tamefreak",
+          "tasks": []
+        },
+        {
+          "student": "shutya",
+          "tasks": [
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "dgekaa",
+          "tasks": []
+        },
+        {
+          "student": "leontyevatatyana",
+          "tasks": []
+        },
+        {
+          "student": "19alexandr90",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Dzianis",
+      "surname": "Sushchenya",
+      "git": "sushchenja",
+      "students": [
+        {
+          "student": "nightman20104",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "irin-ka",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation",
+            "Code Jam \"Scoreboard\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "daniil-loban",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "RS Activist",
+            "RS Activist",
+            "RS Activist",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "misharsweb",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Daniil",
+      "surname": "Suleiman",
+      "git": "sulemanof",
+      "students": [
+        {
+          "student": "heaveek",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "olegsabodash",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "andriva",
+          "tasks": []
+        },
+        {
+          "student": "meearlyam",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "veronikavasilchikova",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Mikita",
+      "surname": "Subbot",
+      "git": "nsubbot",
+      "students": [
+        {
+          "student": "eughene-cherepov",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "moraviin",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "petriken",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "luzko",
+          "tasks": []
+        },
+        {
+          "student": "finnibyh",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "aglayasv",
+          "tasks": []
+        },
+        {
+          "student": "tonykosmos",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Anton",
+      "surname": "Stsiapanau",
+      "git": "stpnvntn",
+      "students": [
+        {
+          "student": "metalhammer4",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "rudlevsky",
+          "tasks": []
+        },
+        {
+          "student": "ostik266",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "katekosushkina",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "viki-klipp",
+          "tasks": []
+        },
+        {
+          "student": "anyalenko",
+          "tasks": []
+        },
+        {
+          "student": "northingvar",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Alexander",
+      "surname": "Spesivtsev",
+      "git": "shuspes",
+      "students": [
+        {
+          "student": "prudnikov888",
+          "tasks": []
+        },
+        {
+          "student": "sergeyskakun",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "petersonby",
+          "tasks": []
+        },
+        {
+          "student": "aliaksandrposakh",
+          "tasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation",
+            "Code Jam \"Scoreboard\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "formalinfigs",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Mikalai",
+      "surname": "Sokarau",
+      "git": "mikalai-sokarau",
+      "students": [
+        {
+          "student": "f8b23lef",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "yrapank",
+          "tasks": [
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "jenia-shibkova",
+          "tasks": []
+        },
+        {
+          "student": "magerrrr",
+          "tasks": []
+        },
+        {
+          "student": "danila211",
+          "tasks": []
+        },
+        {
+          "student": "juliazakharik",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Kseniya",
+      "surname": "Smorshchek",
+      "git": "kseniyasmorshchek",
+      "students": [
+        {
+          "student": "ltcolumbo",
+          "tasks": []
+        },
+        {
+          "student": "veterkam",
+          "tasks": []
+        },
+        {
+          "student": "yurychajkou",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "catrieona",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "ankorbay",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CV\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arseni",
+      "surname": "Shynkarenka",
+      "git": "arhigod",
+      "students": [
+        {
+          "student": "nastya-ropot",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Markup #1",
+            "YouTube",
+            "YouTube",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "mozgoen",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "hellsingi",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "YouTube",
+            "Presentation",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "yeilya",
+          "tasks": []
+        },
+        {
+          "student": "polotenchik",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Markup #1",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "tshkursk",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Andrei",
+      "surname": "Shyliahin",
+      "git": "atzkdeff",
+      "students": [
+        {
+          "student": "olegkizz",
+          "tasks": []
+        },
+        {
+          "student": "lazouskikiryl",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "dimabog22",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "bigshaqmnh",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "antonnaumchik",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Dzianis",
+      "surname": "Shutsikau",
+      "git": "shutya",
+      "students": [
+        {
+          "student": "kirillstarlight",
+          "tasks": []
+        },
+        {
+          "student": "waldemar999",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "kushnerevich",
+          "tasks": []
+        },
+        {
+          "student": "igarok91",
+          "tasks": []
+        },
+        {
+          "student": "aliakseibabko",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "gleb7raul",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\"",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "zhekaprb",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Klim",
+      "surname": "Shuplenkou",
+      "git": "klim711",
+      "students": [
+        {
+          "student": "dmlaziuk",
+          "tasks": []
+        },
+        {
+          "student": "vladqqqqoo",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "globalbobone",
+          "tasks": []
+        },
+        {
+          "student": "wushukms",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Elena",
+      "surname": "Shokhan",
+      "git": "elenashokhanepam",
+      "students": [
+        {
+          "student": "aborisenok",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "valiantsinlopan",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "egormiwa1",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "foxygirl44",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Andrei",
+      "surname": "Shelenhouski",
+      "git": "manuminsk",
+      "students": [
+        {
+          "student": "smajlichak",
+          "tasks": []
+        },
+        {
+          "student": "zm1try",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "jstrr",
+          "tasks": []
+        },
+        {
+          "student": "kirill82",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "blackcat1397",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Dzianis",
+      "surname": "Sheka",
+      "git": "davojta",
+      "students": [
+        {
+          "student": "pavalescoba",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "kashapov",
+          "tasks": []
+        },
+        {
+          "student": "michaeldaineka",
+          "tasks": []
+        },
+        {
+          "student": "lesechka",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "vasiliyrepin",
+          "tasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation",
+            "Markup #1",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "mike80by",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "sergeyshestak",
+          "tasks": []
+        },
+        {
+          "student": "victorbelikov",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "auseika",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "YouTube",
+            "RS Activist",
+            "RS Activist",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "iharpadbiarezski",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "sergey496 ",
+          "tasks": [
+            "RS Activist"
+          ]
+        },
+        {
+          "student": "tatsianacs ",
+          "tasks": [
+            "RS Activist"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yahor",
+      "surname": "Sheinikau",
+      "git": "naooki",
+      "students": [
+        {
+          "student": "eveshad",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "mbulldozer",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "starkary",
+          "tasks": []
+        },
+        {
+          "student": "olgalazarevich",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "holeil",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Tsikhan",
+      "surname": "Shcharbakou",
+      "git": "forkollaider",
+      "students": [
+        {
+          "student": "aalexsoloveiko",
+          "tasks": []
+        },
+        {
+          "student": "sergeibel",
+          "tasks": []
+        },
+        {
+          "student": "do100han",
+          "tasks": []
+        },
+        {
+          "student": "zhecha",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "odegay",
+          "tasks": []
+        },
+        {
+          "student": "mill9r",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Mikalai",
+      "surname": "Shchakatsikhin",
+      "git": "hirurgo",
+      "students": [
+        {
+          "student": "tanya98",
+          "tasks": []
+        },
+        {
+          "student": "mixniuk",
+          "tasks": []
+        },
+        {
+          "student": "xseniia",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "nataligleb",
+          "tasks": []
+        },
+        {
+          "student": "valeriyager",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anton",
+      "surname": "Sharapa",
+      "git": "asharapa",
+      "students": [
+        {
+          "student": "mentos2805",
+          "tasks": []
+        },
+        {
+          "student": "sergeybandar",
+          "tasks": []
+        },
+        {
+          "student": "alexanderkononok",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "mrmars20",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kiryl",
+      "surname": "Shaliapin",
+      "git": "cyrilshalyapin",
+      "students": [
+        {
+          "student": "sergeyakzhik",
+          "tasks": []
+        },
+        {
+          "student": "kulinar310",
+          "tasks": [
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "cropotan",
+          "tasks": [
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "vitalydmitriev",
+          "tasks": []
+        },
+        {
+          "student": "philipsh",
+          "tasks": [
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "vero-nika",
+          "tasks": []
+        },
+        {
+          "student": "vladsemenik",
+          "tasks": [
+            "Markup #1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Illia",
+      "surname": "Sauchuk",
+      "git": "ilyalisitsin",
+      "students": [
+        {
+          "student": "meller96",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "ogurez",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "mrlapka",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "olexxxey",
+          "tasks": []
+        },
+        {
+          "student": "xelson",
+          "tasks": []
+        },
+        {
+          "student": "amoebiusss",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "megustafather",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Ekaterina",
+      "surname": "Sanko",
+      "git": "katya-sanko",
+      "students": [
+        {
+          "student": "kyleshovbb",
+          "tasks": []
+        },
+        {
+          "student": "yabeda79",
+          "tasks": []
+        },
+        {
+          "student": "sergmi",
+          "tasks": []
+        },
+        {
+          "student": "disa0808",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "pulya10c",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yuliya",
+      "surname": "Samuilik",
+      "git": "yulia9",
+      "students": [
+        {
+          "student": "prometei299",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "sergeypunko",
+          "tasks": []
+        },
+        {
+          "student": "zurzur",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "edaineko",
+          "tasks": []
+        },
+        {
+          "student": "seidou99",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Dzmitry",
+      "surname": "Samuilik",
+      "git": "sambl4",
+      "students": [
+        {
+          "student": "sches",
+          "tasks": []
+        },
+        {
+          "student": "simaxa7",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "RS Activist",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "polinamoiseyenko",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "sashakaralchuk",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Yauheni",
+      "surname": "Rutkouski",
+      "git": "erutkovsky",
+      "students": [
+        {
+          "student": "hecateenitharmon",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "mdgh",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "mggeroff",
+          "tasks": []
+        },
+        {
+          "student": "soulos410",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "boshka0",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Rudzin",
+      "git": "rudikaleksandr",
+      "students": [
+        {
+          "student": "mrchester",
+          "tasks": []
+        },
+        {
+          "student": "mxwoodie",
+          "tasks": []
+        },
+        {
+          "student": "psevkin",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "alexeevadaria",
+          "tasks": []
+        },
+        {
+          "student": "spiritforest",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "chekni",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "shymaxer",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Mikita",
+      "surname": "Rudy",
+      "git": "nikitarudy",
+      "students": [
+        {
+          "student": "sad4itananda",
+          "tasks": [
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "kalitamih",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "evgenprushk",
+          "tasks": []
+        },
+        {
+          "student": "mrstalon",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "avaprin",
+          "tasks": []
+        },
+        {
+          "student": "haspadarz-padmensku",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "svoboda-rabstvo",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Andres",
+      "surname": "Rios",
+      "git": "rianby64",
+      "students": [
+        {
+          "student": "yaroslav-mig",
+          "tasks": [
+            "Markup #1",
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "novikovantony",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "mayblackwood",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "anastminsk",
+          "tasks": []
+        },
+        {
+          "student": "28halavach",
+          "tasks": []
+        },
+        {
+          "student": "40grivenprog",
+          "tasks": []
+        },
+        {
+          "student": "igordive",
+          "tasks": []
+        },
+        {
+          "student": "nataliamotuz",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Dzianis",
+      "surname": "Reznik",
+      "git": "dzianisreznik",
+      "students": [
+        {
+          "student": "eugene3112",
+          "tasks": []
+        },
+        {
+          "student": "heat98",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "tanyamatesha",
+          "tasks": []
+        },
+        {
+          "student": "egorgorbik",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "vicrodzko",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "ilyatrat",
+          "tasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "unbelievablysmart",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "viktoryia-hrechykha",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Artsiom",
+      "surname": "Reutovich",
+      "git": "xelsoid",
+      "students": [
+        {
+          "student": "ivanmatsur",
+          "tasks": []
+        },
+        {
+          "student": "usermeme",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "virusss",
+          "tasks": []
+        },
+        {
+          "student": "nikaz123",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Razumovich",
+      "git": "razumovich",
+      "students": [
+        {
+          "student": "kvatoferma",
+          "tasks": []
+        },
+        {
+          "student": "vladagaravaya",
+          "tasks": []
+        },
+        {
+          "student": "chernyshovaalexandra",
+          "tasks": []
+        },
+        {
+          "student": "jacksonbr87",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Dzmitry",
+      "surname": "Ramaniuk",
+      "git": "dmitryromaniuk",
+      "students": [
+        {
+          "student": "andreikrivets",
+          "tasks": []
+        },
+        {
+          "student": "lavazzakate",
+          "tasks": []
+        },
+        {
+          "student": "2kevink",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"Scoreboard\"",
+            "YouTube",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "vladislavrebko",
+          "tasks": []
+        },
+        {
+          "student": "amoyt",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yauheni",
+      "surname": "Ralko",
+      "git": "yralko",
+      "students": [
+        {
+          "student": "anna-pronovich",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Markup #1",
+            "Presentation",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "artemiusv",
+          "tasks": []
+        },
+        {
+          "student": "nataliakazakevich",
+          "tasks": []
+        },
+        {
+          "student": "kseniyasokolovskaya",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "zmichgen",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation",
+            "Code Jam \"CoreJS\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anastasiya",
+      "surname": "Pryvalava",
+      "git": "anastasiaprivalova",
+      "students": [
+        {
+          "student": "sergaunt",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "brateckrolikstudent",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "venomamd",
+          "tasks": []
+        },
+        {
+          "student": "vetal11",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Dzmitry",
+      "surname": "Prudnikau",
+      "git": "diprudnikov",
+      "students": [
+        {
+          "student": "leshka98",
+          "tasks": []
+        },
+        {
+          "student": "siarheikresik",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "dianakay",
+          "tasks": []
+        },
+        {
+          "student": "tvj888",
+          "tasks": []
+        },
+        {
+          "student": "alexkov90",
+          "tasks": []
+        },
+        {
+          "student": "mpot7",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "charmant",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Hanna",
+      "surname": "Pratasevich",
+      "git": "anik188",
+      "students": [
+        {
+          "student": "horoshaya",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "RS Activist",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist",
+            "Presentation",
+            "YouTube",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "martinkevichyana",
+          "tasks": []
+        },
+        {
+          "student": "montik-pc",
+          "tasks": []
+        },
+        {
+          "student": "jeka98",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "renardby",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "RS Activist",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "sergeyguchok",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "aytsan",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Artsiom",
+      "surname": "Piakhota",
+      "git": "lithiumfallen",
+      "students": [
+        {
+          "student": "sunrisekovalevski",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "spacebrains",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "pincherinka",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "victoriathebrave",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yauheni",
+      "surname": "Pasiukevich",
+      "git": "pasyukevich",
+      "students": [
+        {
+          "student": "yanachchchka",
+          "tasks": []
+        },
+        {
+          "student": "yalovikea",
+          "tasks": []
+        },
+        {
+          "student": "volhashy",
+          "tasks": []
+        },
+        {
+          "student": "crunkagator",
+          "tasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "alenabde",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "maksimyakush",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "boobaley",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Kiryl",
+      "surname": "Panou",
+      "git": "kirillpanov",
+      "students": [
+        {
+          "student": "helpthewalrus",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "aliaksandrlosich",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "dmsolov",
+          "tasks": []
+        },
+        {
+          "student": "bogdanka",
+          "tasks": []
+        },
+        {
+          "student": "srjkaa",
+          "tasks": []
+        },
+        {
+          "student": "godofnoobs",
+          "tasks": []
+        },
+        {
+          "student": "uivgray",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dzmitry",
+      "surname": "Panamarenka",
+      "git": "dzmitrypanamarenka",
+      "students": [
+        {
+          "student": "stas4it",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "vladislavmakarevich",
+          "tasks": []
+        },
+        {
+          "student": "juliankov",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation",
+            "Markup #1",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "niksrakevich",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Markup #1",
+            "Code Jam \"CV\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Andrei",
+      "surname": "Palchys",
+      "git": "apalchys",
+      "students": [
+        {
+          "student": "vladyaremeko",
+          "tasks": []
+        },
+        {
+          "student": "ton9q",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "nktvlkvch",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "valentinlipai",
+          "tasks": []
+        },
+        {
+          "student": "mazhoranta",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Volha",
+      "surname": "Paddubka",
+      "git": "olgapoddubko",
+      "students": [
+        {
+          "student": "shet1990",
+          "tasks": []
+        },
+        {
+          "student": "maksagit",
+          "tasks": []
+        },
+        {
+          "student": "melk0sha",
+          "tasks": []
+        },
+        {
+          "student": "tanyasamal",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "karsash",
+          "tasks": []
+        },
+        {
+          "student": "dimadk24",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Novik",
+      "git": "alexno",
+      "students": [
+        {
+          "student": "xlopec23",
+          "tasks": []
+        },
+        {
+          "student": "odinrossy",
+          "tasks": []
+        },
+        {
+          "student": "vlad0mag0",
+          "tasks": []
+        },
+        {
+          "student": "kir-22",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "snaiperlod",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "llitrixkod",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yana",
+      "surname": "Niaronskaya",
+      "git": "yananeronskaya",
+      "students": [
+        {
+          "student": "ilyay95",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "allexblaze",
+          "tasks": []
+        },
+        {
+          "student": "dekim12",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "RS Activist",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "dimamavrin",
+          "tasks": []
+        },
+        {
+          "student": "vitalmizevich",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Natalya",
+      "surname": "Nekazakova",
+      "git": "natashanekazakova",
+      "students": [
+        {
+          "student": "wladimirmihalev",
+          "tasks": []
+        },
+        {
+          "student": "antoprokopovich",
+          "tasks": []
+        },
+        {
+          "student": "iharpashkevich",
+          "tasks": []
+        },
+        {
+          "student": "375291601334",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation",
+            "YouTube"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mikhail",
+      "surname": "Naharayeu",
+      "git": "mikhaillu",
+      "students": [
+        {
+          "student": "elusiveway",
+          "tasks": []
+        },
+        {
+          "student": "cirillius",
+          "tasks": []
+        },
+        {
+          "student": "eugenepochenkov",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "lx-931203",
+          "tasks": []
+        },
+        {
+          "student": "astravukh",
+          "tasks": []
+        },
+        {
+          "student": "zetorby",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maryia",
+      "surname": "Nabzdorava",
+      "git": "maryia-n-n",
+      "students": [
+        {
+          "student": "crypto-kittensseller",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "dyadinmax",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "alexeynovomlinets",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "antonysawyer",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arif",
+      "surname": "Mustafazade",
+      "git": "mustafazadear",
+      "students": [
+        {
+          "student": "sobolevyuri",
+          "tasks": []
+        },
+        {
+          "student": "credov",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "clericus",
+          "tasks": []
+        },
+        {
+          "student": "dbaceko",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "frontsideman",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barys",
+      "surname": "Marukhin",
+      "git": "barysmarukhin",
+      "students": [
+        {
+          "student": "denhock",
+          "tasks": []
+        },
+        {
+          "student": "kirillgalimov",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "igor-provotorov",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "kamatozzzik",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Andrei",
+      "surname": "Markovich",
+      "git": "themarkmarrone",
+      "students": [
+        {
+          "student": "ener9ettt",
+          "tasks": []
+        },
+        {
+          "student": "petromath77",
+          "tasks": []
+        },
+        {
+          "student": "barsolet",
+          "tasks": []
+        },
+        {
+          "student": "yanrishbe",
+          "tasks": []
+        },
+        {
+          "student": "juliamv",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "icebergnevercries",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "tamarashautsova",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Volha",
+      "surname": "Mardvilka",
+      "git": "olgamardvilko",
+      "students": [
+        {
+          "student": "vladsanko",
+          "tasks": []
+        },
+        {
+          "student": "serzhanhelena",
+          "tasks": []
+        },
+        {
+          "student": "georgyminsk",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "greg1996",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "goldenkit",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Mamonenka",
+      "git": "aliaksandrmamonenka",
+      "students": [
+        {
+          "student": "moluram",
+          "tasks": []
+        },
+        {
+          "student": "cheeska",
+          "tasks": []
+        },
+        {
+          "student": "nesteklo",
+          "tasks": []
+        },
+        {
+          "student": "dasnein",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aliaksei",
+      "surname": "Makas",
+      "git": "muskos",
+      "students": [
+        {
+          "student": "vireah",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "yarobei",
+          "tasks": []
+        },
+        {
+          "student": "alexandrtichon",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "yanyan155",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "pkutsilina",
+          "tasks": [
+            "Code Jam \"CoreJS\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Artsiom",
+      "surname": "Lykau",
+      "git": "lykovartem",
+      "students": [
+        {
+          "student": "glebhleb",
+          "tasks": []
+        },
+        {
+          "student": "segrey1989",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "kotukjubotuk",
+          "tasks": []
+        },
+        {
+          "student": "nikkola07",
+          "tasks": []
+        },
+        {
+          "student": "alexandershaternik",
+          "tasks": []
+        },
+        {
+          "student": "okband",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Aleh",
+      "surname": "Lipski",
+      "git": "lipskiy-aleh",
+      "students": [
+        {
+          "student": "agentumbrella",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "justforwebcoding",
+          "tasks": []
+        },
+        {
+          "student": "anastasiaburlo",
+          "tasks": []
+        },
+        {
+          "student": "devandscorp",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "qucca",
+          "tasks": []
+        },
+        {
+          "student": "lexbogos",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "zebabrat",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Andrei",
+      "surname": "Liaukou",
+      "git": "liaukou",
+      "students": [
+        {
+          "student": "dimasquared",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "smetaninpavel",
+          "tasks": []
+        },
+        {
+          "student": "ol4ash",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "kasper1999",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "ivanmikhailenka1",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Andrei",
+      "surname": "Lenkou",
+      "git": "lenkouandrei",
+      "students": [
+        {
+          "student": "goner52",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "poyuki",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "elmavis",
+          "tasks": []
+        },
+        {
+          "student": "rafchillons",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "kirylalexandrovich",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "vlad9719",
+          "tasks": []
+        },
+        {
+          "student": "mg3442",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Ron",
+      "surname": "Lavit",
+      "git": "lavitr",
+      "students": [
+        {
+          "student": "mrdemonrush",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "h0qw010xz",
+          "tasks": []
+        },
+        {
+          "student": "nikitaklepanosov",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "provedenceva",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "daryz",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Artsiom",
+      "surname": "Latyshau",
+      "git": "artemlatyshev",
+      "students": [
+        {
+          "student": "sergeiobolevich",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "dimashcherbakov",
+          "tasks": []
+        },
+        {
+          "student": "feulia",
+          "tasks": []
+        },
+        {
+          "student": "magi-a",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "andrewyanushkevich",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Viachaslau",
+      "surname": "Latushkin",
+      "git": "viachaslau-latushkin",
+      "students": [
+        {
+          "student": "alexandrasitnikova",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "vitalibrych333",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "pavelkiru",
+          "tasks": []
+        },
+        {
+          "student": "shestakoff1441",
+          "tasks": []
+        },
+        {
+          "student": "katezhukel",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Kuzniatsou",
+      "git": "aliaksandrkuzniatsou",
+      "students": [
+        {
+          "student": "apivovarchik",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "ruslandimitriuk",
+          "tasks": []
+        },
+        {
+          "student": "temachkin11",
+          "tasks": []
+        },
+        {
+          "student": "iamhappy2day",
+          "tasks": []
+        },
+        {
+          "student": "katiekruchko",
+          "tasks": []
+        },
+        {
+          "student": "artser97",
+          "tasks": []
+        },
+        {
+          "student": "stasnegreev",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Pavel",
+      "surname": "Kuzniatsou",
+      "git": "pavelkuzniatsou",
+      "students": [
+        {
+          "student": "maxbrainygame",
+          "tasks": []
+        },
+        {
+          "student": "oliver337",
+          "tasks": []
+        },
+        {
+          "student": "kotiknalune42",
+          "tasks": []
+        },
+        {
+          "student": "akselatom",
+          "tasks": []
+        },
+        {
+          "student": "maryiasiamenava",
+          "tasks": []
+        },
+        {
+          "student": "kotcher1",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "kirilltovpinets",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bahdan",
+      "surname": "Kutas",
+      "git": "agentkb",
+      "students": [
+        {
+          "student": "litwin90",
+          "tasks": []
+        },
+        {
+          "student": "dzmitrybabak",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "systemghost",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "eugenetime",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "alexnaidovich",
+          "tasks": []
+        },
+        {
+          "student": "ivanchikovvalentin",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "ewelai",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Viktar",
+      "surname": "Kurbatski",
+      "git": "woozzone",
+      "students": [
+        {
+          "student": "bardashevich-matvei",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "korbann",
+          "tasks": []
+        },
+        {
+          "student": "yevgeniypy",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "tatyana-andreichyk",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "supersmf",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Alexandra",
+      "surname": "Kukolca",
+      "git": "kukolcaalexandra",
+      "students": [
+        {
+          "student": "sxe2255",
+          "tasks": []
+        },
+        {
+          "student": "vovair",
+          "tasks": []
+        },
+        {
+          "student": "ingvaroldd",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "bragodin",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "fantom141",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "samo-war",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "artsiom",
+      "surname": "kukharev",
+      "git": "xeontem",
+      "students": [
+        {
+          "student": "silichstudent",
+          "tasks": []
+        },
+        {
+          "student": "vvikota",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "Markup #1",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "leonard1k",
+          "tasks": []
+        },
+        {
+          "student": "mariakisel",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "qxfisher",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "bulbazubr",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Dzmitry",
+      "surname": "Kudla",
+      "git": "linus2228",
+      "students": [
+        {
+          "student": "sergeybaranovichi",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "karina198",
+          "tasks": []
+        },
+        {
+          "student": "arturkudlo",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "dimasofff",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "6alex6kash6",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Denis",
+      "surname": "Kravchenko",
+      "git": "shank111",
+      "students": [
+        {
+          "student": "kirillfilipp",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "gemsgame",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "axissixa57",
+          "tasks": []
+        },
+        {
+          "student": "maxstarovoitov",
+          "tasks": []
+        },
+        {
+          "student": "nemkev",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ALIAKSEI",
+      "surname": "KRAUCHANKA",
+      "git": "aliakseikrauchanka",
+      "students": [
+        {
+          "student": "latiertiw",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "sined1",
+          "tasks": []
+        },
+        {
+          "student": "vladzuev",
+          "tasks": []
+        },
+        {
+          "student": "christinaalimova",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Vitali",
+      "surname": "Krasnou",
+      "git": "error404as",
+      "students": [
+        {
+          "student": "robertiqk",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "pozharitskiy",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "aliakseik19",
+          "tasks": []
+        },
+        {
+          "student": "tarsupon",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Krasnou",
+      "git": "aliaksandrkrasnou",
+      "students": [
+        {
+          "student": "andrey-lobach",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "pitergtx",
+          "tasks": []
+        },
+        {
+          "student": "alexandravlasenko",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "painincoming",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CV\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vladislav",
+      "surname": "Kovaliov",
+      "git": "vladislavkovaliov",
+      "students": [
+        {
+          "student": "roman-nareiko",
+          "tasks": []
+        },
+        {
+          "student": "evilamany",
+          "tasks": []
+        },
+        {
+          "student": "xvorob",
+          "tasks": []
+        },
+        {
+          "student": "pelya98",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Sergeh",
+      "surname": "Korotkin",
+      "git": "korotkin",
+      "students": [
+        {
+          "student": "pavelsab",
+          "tasks": []
+        },
+        {
+          "student": "ihartsykaka",
+          "tasks": []
+        },
+        {
+          "student": "vldshch",
+          "tasks": []
+        },
+        {
+          "student": "naijelo",
+          "tasks": []
+        },
+        {
+          "student": "tridenet",
+          "tasks": []
+        },
+        {
+          "student": "darinalitvin",
+          "tasks": []
+        },
+        {
+          "student": "zhechka",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Alena",
+      "surname": "Korachkina",
+      "git": "papialoushka",
+      "students": [
+        {
+          "student": "dmitryduk3",
+          "tasks": []
+        },
+        {
+          "student": "nikola2390",
+          "tasks": []
+        },
+        {
+          "student": "sashajohnson",
+          "tasks": []
+        },
+        {
+          "student": "yagorka1",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Viktoryia",
+      "surname": "Klimenka",
+      "git": "candentira",
+      "students": [
+        {
+          "student": "palessie",
+          "tasks": []
+        },
+        {
+          "student": "ustilushka",
+          "tasks": []
+        },
+        {
+          "student": "zzvipz",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "dmitrylenko",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "underdoglzd",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Kleshchukevich",
+      "git": "sleepwalky",
+      "students": [
+        {
+          "student": "noviceblunderer",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "kristalys",
+          "tasks": []
+        },
+        {
+          "student": "splin-shady",
+          "tasks": []
+        },
+        {
+          "student": "katrin-kot",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "gattygamaun",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "mariyapolt",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aliaksei",
+      "surname": "Khlebnikau",
+      "git": "fallenby1",
+      "students": [
+        {
+          "student": "katepavlovich",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "youngbrick",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "alekengineer",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "kottt4",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "walkunderrain",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Artur",
+      "surname": "Kazlouski",
+      "git": "arturminsksum",
+      "students": [
+        {
+          "student": "a-lika",
+          "tasks": []
+        },
+        {
+          "student": "uniqkue",
+          "tasks": []
+        },
+        {
+          "student": "sqwezzy",
+          "tasks": []
+        },
+        {
+          "student": "nikaneider",
+          "tasks": []
+        },
+        {
+          "student": "rebellix",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maryna",
+      "surname": "Kavetskaya",
+      "git": "shparkivozhyk",
+      "students": [
+        {
+          "student": "sburnt",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "tserekhivan",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "presidentsboyfriend",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "eugenekhristo",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Mikalai",
+      "surname": "Kavaliou",
+      "git": "nikkov17",
+      "students": [
+        {
+          "student": "artichoks",
+          "tasks": []
+        },
+        {
+          "student": "anastasiyanovikovag",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "margaretmint",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "anastasiyamazura",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "dezman66",
+          "tasks": []
+        },
+        {
+          "student": "exedystyle",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "gaddyya",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yana",
+      "surname": "Karotkina",
+      "git": "yanaselin",
+      "students": [
+        {
+          "student": "bsiropchik",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "scratchor",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "montes5",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "mrspunki",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "maksstef",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Katsiaryna",
+      "surname": "Karanets",
+      "git": "katekaranets",
+      "students": [
+        {
+          "student": "kozelkoff",
+          "tasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "vladislavshyian",
+          "tasks": []
+        },
+        {
+          "student": "gleb-kukobnikov",
+          "tasks": []
+        },
+        {
+          "student": "sokol147",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "dantewitcher",
+          "tasks": []
+        },
+        {
+          "student": "natiedei",
+          "tasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "aliaksandrarybak",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elizaveta",
+      "surname": "Ivashkova",
+      "git": "ivashkovaliza",
+      "students": [
+        {
+          "student": "stationtostation",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "tatsianacs",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "RS Activist",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "kharuk",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "wald3",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Alena",
+      "surname": "Hrytsuk",
+      "git": "helenegritsuk",
+      "students": [
+        {
+          "student": "devildummy",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "dzmitry-karachun-1987",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "serg8",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "nik-av",
+          "tasks": []
+        },
+        {
+          "student": "kishkun",
+          "tasks": []
+        },
+        {
+          "student": "tsygancova",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Dzmitry",
+      "surname": "Hrachou",
+      "git": "falizyer",
+      "students": [
+        {
+          "student": "bespodobno",
+          "tasks": []
+        },
+        {
+          "student": "anastasia1627",
+          "tasks": []
+        },
+        {
+          "student": "basch1727",
+          "tasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "lizabredberry",
+          "tasks": []
+        },
+        {
+          "student": "zartaich",
+          "tasks": []
+        },
+        {
+          "student": "estel1591",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "alekseymishuk",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Hanna",
+      "surname": "Hrabianiuk",
+      "git": "annagrebenyuk",
+      "students": [
+        {
+          "student": "yuliyahlukhatarenka",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "lapa17",
+          "tasks": []
+        },
+        {
+          "student": "dmitrylutskovich",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "vladst90",
+          "tasks": []
+        },
+        {
+          "student": "atryomparfenenkov",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Yauheni",
+      "surname": "Hladki",
+      "git": "evgladkiy",
+      "students": [
+        {
+          "student": "evgenijkorob",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "anxair",
+          "tasks": []
+        },
+        {
+          "student": "siarohin",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "svyatlo",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "shurpelevas",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Yauheni",
+      "surname": "Harokh",
+      "git": "evgeniigrh",
+      "students": [
+        {
+          "student": "antonprotas",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "mickbetch",
+          "tasks": []
+        },
+        {
+          "student": "oconely",
+          "tasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "natalianekrashevich",
+          "tasks": []
+        },
+        {
+          "student": "iryna-mazura",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "RS Activist",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "kamenkoalexandr",
+          "tasks": []
+        },
+        {
+          "student": "garin87",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Ilya",
+      "surname": "Hancharyk",
+      "git": "amsterget",
+      "students": [
+        {
+          "student": "tebeskashi",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "pinkrefugee",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "daqueze21",
+          "tasks": []
+        },
+        {
+          "student": "beetle23",
+          "tasks": []
+        },
+        {
+          "student": "lynyx",
+          "tasks": []
+        },
+        {
+          "student": "tomsssm",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "colambus13",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yuliya",
+      "surname": "Haluza",
+      "git": "yuliahope",
+      "students": [
+        {
+          "student": "artyommakarov",
+          "tasks": []
+        },
+        {
+          "student": "levsha87",
+          "tasks": []
+        },
+        {
+          "student": "hottab9595",
+          "tasks": []
+        },
+        {
+          "student": "achyrych",
+          "tasks": []
+        },
+        {
+          "student": "arkadz",
+          "tasks": []
+        },
+        {
+          "student": "maniuska",
+          "tasks": []
+        },
+        {
+          "student": "sachoks",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Konstantin",
+      "surname": "Grigorchuk",
+      "git": "predokmif",
+      "students": [
+        {
+          "student": "belkacraft",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "kasatka660",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "warryr",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "alexandrapozniak",
+          "tasks": []
+        },
+        {
+          "student": "yuliabakhar",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Valeri",
+      "surname": "Gorobets",
+      "git": "valeragorobets",
+      "students": [
+        {
+          "student": "ivandubrouski",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "mrforsyte",
+          "tasks": []
+        },
+        {
+          "student": "krisstets",
+          "tasks": []
+        },
+        {
+          "student": "yuriy17",
+          "tasks": []
+        },
+        {
+          "student": "olgakuksa",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "eliznovo",
+          "tasks": []
+        },
+        {
+          "student": "vitalij21",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Pavel",
+      "surname": "Glebov",
+      "git": "pavelglebov",
+      "students": [
+        {
+          "student": "oaliona",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "feodorius",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "ihar777",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "dzianiskavalionak",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "alexsmyk1992",
+          "tasks": []
+        },
+        {
+          "student": "vbkoshak",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Fiodarau",
+      "git": "aliaksandrfiodarau",
+      "students": [
+        {
+          "student": "burach0k",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "denyingthetruth",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "invikto",
+          "tasks": []
+        },
+        {
+          "student": "khaliulinroman",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dzianis",
+      "surname": "Dashkevich",
+      "git": "denisdashkevich",
+      "students": [
+        {
+          "student": "yevganytyurin",
+          "tasks": []
+        },
+        {
+          "student": "pofs",
+          "tasks": []
+        },
+        {
+          "student": "alexeykuril0",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "kragov",
+          "tasks": []
+        },
+        {
+          "student": "gruzinskiiartem",
+          "tasks": []
+        },
+        {
+          "student": "pivchenkosv",
+          "tasks": []
+        },
+        {
+          "student": "andreisavelyev",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Siarhei",
+      "surname": "Churylin",
+      "git": "sergey-churilin",
+      "students": [
+        {
+          "student": "gegorov",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist"
+          ]
+        },
+        {
+          "student": "ilyakabanov",
+          "tasks": []
+        },
+        {
+          "student": "yurec0gurec",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Markup #1",
+            "Markup #1",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "gubnich",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dzmitry",
+      "surname": "Chuchva",
+      "git": "dzmitry-chuchva",
+      "students": [
+        {
+          "student": "modrix",
+          "tasks": []
+        },
+        {
+          "student": "scarletcamomile",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "tani4ik",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yauhen",
+      "surname": "Chaika",
+      "git": "eugenech",
+      "students": [
+        {
+          "student": "ivchenkopavel",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "ruboscope",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "alesya-polovets",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "geek10010",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "antonykor",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "saniok017",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "dzmitryalfer",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Viktoryia",
+      "surname": "Budzionnaya",
+      "git": "elkinny",
+      "students": [
+        {
+          "student": "kottanakor",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "daryazel",
+          "tasks": []
+        },
+        {
+          "student": "alenakharytonchyk",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Presentation",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "drizzlman",
+          "tasks": []
+        },
+        {
+          "student": "yonguksaram",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Denis",
+      "surname": "Bozhyk",
+      "git": "den-bozhyk",
+      "students": [
+        {
+          "student": "mailikey",
+          "tasks": []
+        },
+        {
+          "student": "vladesco",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "drdiman",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "dzmitrymashuk",
+          "tasks": []
+        },
+        {
+          "student": "ipixby",
+          "tasks": []
+        },
+        {
+          "student": "nickprudnik",
+          "tasks": []
+        },
+        {
+          "student": "vitalitybo",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Katsiaryna",
+      "surname": "Birulia",
+      "git": "kbirulia",
+      "students": [
+        {
+          "student": "vergonini",
+          "tasks": []
+        },
+        {
+          "student": "katiar",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "anaumovich",
+          "tasks": []
+        },
+        {
+          "student": "kirillkolesnik123",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Denis",
+      "surname": "Bezak",
+      "git": "bezakdenis",
+      "students": [
+        {
+          "student": "aleks210219",
+          "tasks": []
+        },
+        {
+          "student": "krlktv",
+          "tasks": []
+        },
+        {
+          "student": "dsv-sergey",
+          "tasks": [
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "nadezhda-kotova",
+          "tasks": []
+        },
+        {
+          "student": "alexalizurchik",
+          "tasks": [
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "pavellyolya",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anton",
+      "surname": "Bely",
+      "git": "toshabely",
+      "students": [
+        {
+          "student": "arkhipenka",
+          "tasks": [
+            "Markup #1",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "abespolov",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "zzhiharevich",
+          "tasks": []
+        },
+        {
+          "student": "dimaspivas",
+          "tasks": [
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "maxkonopelko",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Natallia",
+      "surname": "Belavusava",
+      "git": "belousova-natallia",
+      "students": [
+        {
+          "student": "garnich",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "altobeyk",
+          "tasks": []
+        },
+        {
+          "student": "stigmatory15",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "kmetkokate",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Vera",
+      "surname": "Barysava",
+      "git": "tomasspring",
+      "students": [
+        {
+          "student": "annakolesnikova",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "eliendil",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "a11mo",
+          "tasks": []
+        },
+        {
+          "student": "thecobolt",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Dmitri",
+      "surname": "Bardt",
+      "git": "ximet",
+      "students": [
+        {
+          "student": "dianatsevan",
+          "tasks": []
+        },
+        {
+          "student": "christopher-0118",
+          "tasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "happy-mary",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "onaker",
+          "tasks": []
+        },
+        {
+          "student": "igorbyl",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "maksyermak",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "riba0017",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Tatsiana",
+      "surname": "Bakhmatovich",
+      "git": "tanya-bakhmatovich",
+      "students": [
+        {
+          "student": "fogfug1",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "yauhenilyin",
+          "tasks": []
+        },
+        {
+          "student": "dmitrigorchanin",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "soundmafi",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Dzmitry",
+      "surname": "Bahachuk",
+      "git": "sintet",
+      "students": [
+        {
+          "student": "aspowerr",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "shchelkunchik",
+          "tasks": []
+        },
+        {
+          "student": "thatcherrr",
+          "tasks": []
+        },
+        {
+          "student": "torioyoshiko",
+          "tasks": []
+        },
+        {
+          "student": "julialar4enko",
+          "tasks": []
+        },
+        {
+          "student": "yasell",
+          "tasks": []
+        },
+        {
+          "student": "aleksandrmedvedev9000",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Palina",
+      "surname": "Babrounik",
+      "git": "polinabobrovnik",
+      "students": [
+        {
+          "student": "wowprojeck",
+          "tasks": []
+        },
+        {
+          "student": "andvikvin",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "alinkalu",
+          "tasks": []
+        },
+        {
+          "student": "marry705",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "fursaleksey",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "hursevichsergey",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Siarhei",
+      "surname": "Ausianik",
+      "git": "sergeyshatter",
+      "students": [
+        {
+          "student": "cuppake",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "pirsfrommi6",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "RS Activist",
+            "Markup #1"
+          ]
+        },
+        {
+          "student": "luffi2539",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "RS Activist"
+          ]
+        },
+        {
+          "student": "kirilltk",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aliaksei",
+      "surname": "Astafyeu",
+      "git": "tr3v3r",
+      "students": [
+        {
+          "student": "bezchekera",
+          "tasks": []
+        },
+        {
+          "student": "nadinaaa",
+          "tasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Code Jam \"CV\""
+          ]
+        },
+        {
+          "student": "volunyshka",
+          "tasks": []
+        },
+        {
+          "student": "grnkvch",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "driliad",
+          "tasks": []
+        },
+        {
+          "student": "yanamina",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Uladzimir",
+      "surname": "Artsemenka",
+      "git": "vinfinit",
+      "students": [
+        {
+          "student": "egoncharov",
+          "tasks": []
+        },
+        {
+          "student": "elostryy",
+          "tasks": []
+        },
+        {
+          "student": "eauheni",
+          "tasks": []
+        },
+        {
+          "student": "mikhailnakanechny",
+          "tasks": [
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "Presentation",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "maringoka",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Amialkovich",
+      "git": "amelk9n",
+      "students": [
+        {
+          "student": "vitalur",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "jrzlve",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "panikutysh",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "vlukyane",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Dzmitry",
+      "surname": "Aliaksandrau",
+      "git": "alidzm",
+      "students": [
+        {
+          "student": "devbarden",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "Markup #1",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "nicklevkovich",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "poiskull",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "mrio1",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        },
+        {
+          "student": "alexkashpor",
+          "tasks": []
+        },
+        {
+          "student": "dmsomov",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yuliia",
+      "surname": "Alaieva",
+      "git": "juliaalaeva",
+      "students": [
+        {
+          "student": "mariannagarbuzova",
+          "tasks": []
+        },
+        {
+          "student": "pytniza",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube"
+          ]
+        },
+        {
+          "student": "ronavea",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "ahrechushkin",
+          "tasks": []
+        },
+        {
+          "student": "huriosity",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Viktoryia",
+      "surname": "Verasava",
+      "git": "viktoryiaverasava",
+      "students": [
+        {
+          "student": "psychotheus",
+          "tasks": []
+        },
+        {
+          "student": "lowershotower",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "bn1knb",
+          "tasks": []
+        },
+        {
+          "student": "zerovers",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "YouTube",
+            "Presentation",
+            "RS Activist",
+            "Code Jam \"Scoreboard\"",
+            "RS Activist",
+            "RS Activist"
+          ]
+        },
+        {
+          "student": "25kopek",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Tatsiana",
+      "surname": "Stsepchanka",
+      "git": "stsepchanka",
+      "students": [
+        {
+          "student": "max-violent",
+          "tasks": []
+        },
+        {
+          "student": "rick42morty",
+          "tasks": [
+            "Code Jam \"CV\"",
+            "Code Jam \"CoreJS\"",
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "YouTube",
+            "Presentation",
+            "Code Jam \"Scoreboard\"",
+            "Presentation"
+          ]
+        },
+        {
+          "student": "dloz",
+          "tasks": []
+        },
+        {
+          "student": "scifsyh",
+          "tasks": []
+        },
+        {
+          "student": "tgfrey",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Kazhamiaka",
+      "git": "mkinitcpio",
+      "students": [
+        {
+          "student": "slayer110",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "quiquek007",
+          "tasks": [
+            "Markup #1",
+            "Code Jam \"DOM, DOM Events\"",
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"CV\"",
+            "Presentation",
+            "YouTube",
+            "RS Activist",
+            "Code Jam \"Scoreboard\""
+          ]
+        },
+        {
+          "student": "mohax-13",
+          "tasks": [
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "ksenia-ok",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        },
+        {
+          "student": "artsiom-zhuk",
+          "tasks": [
+            "Code Jam \"CoreJS\"",
+            "Code Jam \"DOM, DOM Events\""
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maksim",
+      "surname": "Kantsavy",
+      "git": "clainatomi-zero",
+      "students": [
+        {
+          "student": "alexandrshlyaeu",
+          "tasks": []
+        },
+        {
+          "student": "nicalas93",
+          "tasks": []
+        },
+        {
+          "student": "vldmr1",
+          "tasks": []
+        },
+        {
+          "student": "shinoby85",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "Aliaksandr",
+      "surname": "Famchankou",
+      "git": "famchankou",
+      "students": [
+        {
+          "student": "vladimirdobrik",
+          "tasks": []
+        },
+        {
+          "student": "tvorchud",
+          "tasks": []
+        },
+        {
+          "student": "iharvypau",
+          "tasks": []
+        },
+        {
+          "student": "vitalijsk",
+          "tasks": []
+        },
+        {
+          "student": "fcsm-andrei",
+          "tasks": []
+        }
+      ]
+    }
+  ]
+}
